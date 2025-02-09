@@ -1,0 +1,312 @@
+{
+    "home": {
+        "home": "Home",
+        "healthCareSolution": "We Provide All Health Care Solution",
+        "protectHealth": "Protect Your Health And Take Care Of Your Health",
+        "readMore": "Read More",
+        "whyChooseUs": "Why Choose Us?",
+        "experiencedDoctors": "Experienced Doctors",
+        "modernEquipment": "Modern Equipment",
+        "comprehensiveServices": "Comprehensive Services"
+    },
+
+    "login":{
+        "loginInfo": "Login Information",
+        "username": "User Name...",
+        "password": "Password...",
+        "login": "Login",
+        "forgotPassword": "Forgot your password?"
+    },
+
+    "aboutUs": {
+        "title": "About Us",
+        "subtitle": "The Great Place Of Medical Hospital Center",
+        "description": "We provide the special tips and advice's of health care treatment and high level of best technology involve in the our hospital.",
+        "whyChooseUs": "Why Choose Our Medical Center?",
+        "details": "Our hospital is equipped with state-of-the-art medical technology and staffed by highly skilled professionals dedicated to providing the best care possible. We understand the importance of your health, which is why we go above and beyond to ensure that you receive the highest standard of treatment.",
+        "readLess": "Read less", 
+        "readMore": "Read More",
+        "mission": {
+            "title": "Our Mission",
+            "text": "Our mission is to deliver comprehensive and compassionate healthcare services, ensuring the well-being of every patient we serve."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "text": "To become a leading medical center renowned for innovation, quality, and exceptional patient care."
+        },
+        "values": {
+            "title": "Our Values",
+            "list": [
+                "Transparency: We maintain honesty and openness in all our dealings.",
+                "Compassion: Caring for patients as if they are part of our family.",
+                "Excellence: Striving for the highest standards in everything we do.",
+                "Commitment: Dedicated to improving the lives of those we serve."
+            ]
+        },
+        "promise": {
+            "title": "Our Promise to You",
+            "text": "We promise to provide the highest level of care, compassion, and expertise in every interaction with our patients. From the moment you walk through our doors, we prioritize your comfort and well-being, ensuring that you receive the care you deserve."
+        },
+        "whoWeAre": {
+            "title": "Who We Are",
+            "text": "Founded in [year], [Hospital Name] has been dedicated to providing top-notch healthcare services to our community. With state-of-the-art facilities and a highly skilled team, we aim to set new standards in medical care."
+        },
+        "services": {
+            "title": "Our Services Include:",
+            "list": [
+                "Emergency Help",
+                "Operation Help",
+                "Cleaning Help",
+                "Sick Help"
+            ],
+            "details": [
+                "Fast and efficient response for critical situations.",
+                "Tailored treatments for all medical needs, including surgeries and therapies.",
+                "24/7 Availability: Our team is always ready to assist you, any time of day or night.",
+                "Comfortable Environment: We ensure that you feel at home with a calm, peaceful atmosphere."
+            ]
+        },
+        "thanks": "Thank you for trusting us with your health!"
+    },
+
+    "workingProcess": {
+        "title": "Working Process",
+        "workingProcessTitle": "How We Work?",
+        "steps": [
+            {
+                "title": "Step 01: Make Appointment",
+                "description": "The first step is to schedule an appointment with us. You can easily choose the date and time that works best for you through our online system or by calling our office."
+            },
+            {
+                "title": "Step 02: Consultation",
+                "description": "During the consultation, our doctors will evaluate your health needs and discuss the best treatment options available. You will receive personalized care based on your condition."
+            },
+            {
+                "title": "Step 03: Treatment Plan",
+                "description": "Once we have all the information we need, we will design a personalized treatment plan tailored to your specific needs, ensuring the best results for your health and well-being."
+            }
+        ],
+        "viewMore": "viewMore"
+    },
+    
+    "appointmentBooking": {
+        "title": "Booking an appointment",
+        "formLabels": {
+            "name": "Enter Your Name:",
+            "chooseDate": "Choose a Date:",
+            "selectDate": "-- Select a Date --",
+            "chooseTime": "Choose a Time:",
+            "selectTime": "-- Select a Time --",
+            "chooseDepartment": "Choose a Department:",
+            "selectDepartment": "-- Select a Department --",
+            "chooseDoctor": "Choose a Doctor:",
+            "selectDoctor": "-- Select a Doctor --"
+        },
+        "confirmButton": "Confirm Appointment",
+        "confirmationMessage": {
+            "title": "Your card",
+            "name": "Name:",
+            "date": "Date:",
+            "time": "Time:",
+            "department": "Department:",
+            "doctor": "Doctor:"
+        },
+        "doctorsDepartments": [
+            {
+                "department": "Cardiology",
+                "doctors": ["Dr. Ahmed", "Dr. Sara", "Dr. Youssef"]
+            },
+            {
+                "department": "Neurology",
+                "doctors": ["Dr. Mona", "Dr. Khaled", "Dr. Rami"]
+            },
+            {
+                "department": "Orthopedics",
+                "doctors": ["Dr. Hany", "Dr. Dina", "Dr. Omar"]
+            },
+            {
+                "department": "Pediatrics",
+                "doctors": ["Dr. Salma", "Dr. Tarek", "Dr. Layla"]
+            },
+            {
+                "department": "Radiology",
+                "doctors": ["Dr. Amr", "Dr. Nour", "Dr. Zeinab"]
+            },
+            {
+                "department": "Ophthalmology",
+                "doctors": ["Dr. Youssef", "Dr. Huda", "Dr. Mona"]
+            },
+            {
+                "department": "ENT",
+                "doctors": ["Dr. Tamer", "Dr. Laila", "Dr. Ahmed"]
+            }
+        ]
+    },
+    "services": {
+        "title": "Services",
+        "description": "We Cover A Big Variety Of Medical Services",
+        "introText": "We provide the special tips and advice of health care treatment and high level of best.",
+        "readMoreButton": "Read More",
+        "cards": [
+            {
+                "title": "treatment",
+                "description": "Reliable medication for your everyday health needs."
+            },
+            {
+                "title": "surgery",
+                "description": "All the basics for immediate care when you need it most."
+            },
+            {
+                "title": "vaccine",
+                "description": "Protect your health with trusted vaccines and immunizations."
+            },
+            {
+                "title": "emergency",
+                "description": "Fast and reliable assistance for critical health situations."
+            },
+            {
+                "title": "kidney",
+                "description": "Protect your kidneys with regular check-ups and a healthy lifestyle."
+            },
+            {
+                "title": "Muscle",
+                "description": "Muscles are responsible for body movement alwayes."
+            },
+            {
+                "title": "Bone",
+                "description": "Exercise helps strengthen bones and prevent fractures."
+            },
+            {
+                "title": "Brain",
+                "description": "Keeping the brain active helps improve mental health."
+            },
+            {
+                "title": "Diagnostics",
+                "description": "Taking care of your heart and hearing every day."
+            }
+        ],
+        "buttonText": "view More"
+    },
+    "Testimonial": {
+        "title": "Testimonial",
+        "subtitle": "See What Are The Patients Saying About us",
+        "testimonials": [
+            {
+                "name": "Sarah Lee",
+                "role": "PATIENTS",
+                "text": "The service provided was excellent. The staff were incredibly friendly and helpful throughout my entire visit. I highly recommend this place to anyone in need of quality healthcare. Truly a remarkable experience that left me feeling cared for and valued. I’m grateful for the professionalism and dedication shown by everyone involved."
+            },
+            {
+                "name": "Michael Brown",
+                "role": "PATIENTS",
+                "text": "Visiting here was a life-changing decision. From the moment I walked in, I felt a sense of calm and comfort. The doctors explained everything in detail and ensured I understood each step. Exceptional care and attention to detail have made this place stand out for me. I’ll definitely recommend it to family and friends."
+            },
+            {
+                "name": "Emma Davis",
+                "role": "PATIENTS",
+                "text": "This place exceeded my expectations. The facilities were top-notch, and the team was both skilled and compassionate. I never once felt rushed or ignored during my appointment. They genuinely listened to my concerns and addressed them thoroughly. An outstanding experience that sets a high standard for patient care."
+            }
+        ]
+    },
+    "Latest":{
+        "latestNews": "Out Latest News",
+        "articles": [
+            {
+            "title": "In this hospital there are special surgeon",
+            "author": "Mohamed Hazem",
+            "date": "20 July 2022",
+            "buttonText": "view More"
+            },
+            {
+            "title": "Can you get a diflucan prescription online",
+            "author": "Yousef Alatar",
+            "date": "23 July 2023",
+            "buttonText": "view More"
+            },
+            {
+            "title": "Why is scin surgeon considered Underreted",
+            "author": "Yehia Hatem",
+            "date": "21 July 2021",
+            "buttonText": "view More"
+            }
+        ]
+    },
+
+    "footer": {
+        "title": "Footer",
+        "contact": {
+            "title": "MediTro",
+            "description": "Medicine is a vital field dedicated to diagnosing, treating, and preventing illnesses.",
+            "contact_us": "Contact Us",
+            "phone": "+01032454987"
+        },
+        "quick_links": [
+            "quick_links",
+            "About Us",
+            "services",
+            "Booking",
+            "Faq's",
+            "Blogs",
+            "Out Team"
+        ],
+        "our_service": [
+            "our_service",
+            "Dental Care",
+            "cardiac clinic",
+            "Message Therapy",
+            "Cardiology",
+            "Precise diagnosing",
+            "Ambulance services"
+        ],
+        "subscribe": {
+            "title": "Subscribe",
+            "email_placeholder": "Email Address",
+            "button_text": "Subscribe Now"
+        }
+    },
+
+    "questions": {
+        "pageWord": "Questions",
+        "1": {
+            "question": "What is the cause of stomach ulcers?",
+            "answer": "Helicobacter pylori infection",
+            "description": "Stomach ulcers are often caused by H. pylori bacteria or excessive use of NSAIDs like ibuprofen."
+        },
+        "2": {
+            "question": "What are the symptoms of appendicitis?",
+            "answer": "Severe abdominal pain",
+            "description": "Appendicitis symptoms include sharp pain in the lower right abdomen, fever, and nausea."
+        },
+        "3": {
+            "question": "What is the role of red blood cells?",
+            "answer": "Oxygen transport",
+            "description": "Red blood cells carry oxygen from the lungs to the rest of the body and return carbon dioxide for exhalation."
+        },
+        "4": {
+            "question": "How does diabetes affect the body?",
+            "answer": "High blood sugar complications",
+            "description": "Diabetes can lead to nerve damage, kidney failure, and increased risk of heart disease if not managed properly."
+        },
+        "5": {
+            "question": "What are the benefits of drinking water?",
+            "answer": "Hydration and health",
+            "description": "Drinking water helps maintain body temperature, supports digestion, and improves skin health."
+        },
+        "6": {
+            "question": "What causes high blood pressure?",
+            "answer": "Stress and poor diet",
+            "description": "High blood pressure can be caused by stress, excessive salt intake, lack of exercise, and genetics."
+        },
+        "7": {
+            "question": "Why is sleep important for the body?",
+            "answer": "Rest and recovery",
+            "description": "Sleep allows the body to repair itself, improves brain function, and supports overall health."
+        },
+        "8": {
+            "question": "How does exercise benefit mental health?",
+            "answer": "Reduces stress and boosts mood",
+            "description": "Exercise releases endorphins, reduces anxiety, and improves self-esteem and cognitive function."
+        }
+    }
+}
+

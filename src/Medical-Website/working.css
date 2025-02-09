@@ -1,0 +1,118 @@
+.working{
+    background-color: var(--main-bg);
+}
+
+.working .Workingtitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.working .importantWord{
+    margin: 30px;
+    color: var(--btn-color) !important;
+}
+
+.working .boxs{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.working .box{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--main-color);
+    width: 300px;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px 3px #06040417;
+    margin: 20px;
+    transition: .3s;
+}
+.working .box .pWord{
+    color: var(--btn-color);
+}
+.working .box .WorkingWord{
+    color: var(--btn-color);
+}
+.working .box .viewDiv{
+    display: flex;
+    background-color: var(--btn-color);
+    padding: 5px 8px;
+    justify-content: space-between;
+    border-radius: 10px;
+    width: 190px;
+    align-items: center;
+}
+
+.working .box .view{
+    color: var(--main-color);
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 5px 22px 5px 25px !important;
+    transition: .3s;
+}
+
+.working .box .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px;
+    height: 36px;
+    background-color: var(--main-color);
+    border-radius: 11px;
+    transition: .3s;
+    color: var(--btn-color);
+}
+
+.working .box .numper{
+    font-size: 110px;
+    -webkit-text-stroke: 3px var(--btn-color);
+    color: #ff000029;
+    margin-bottom: -14px;
+    font-family: 'Impact', sans-serif;
+}
+
+.working .box:hover{
+    background-color: var(--btn-color);
+}
+.working .box:hover .numper{
+    -webkit-text-stroke: 3px var(--main-color);
+}
+
+.working .box:hover .view{
+    color: var(--btn-color);
+}
+
+.working .box:hover .viewDiv{
+    background-color: var(--main-color);
+}
+
+.working .box:hover .right{
+    background-color: var(--btn-color);
+    color: var(--main-color);
+}
+
+.working .box:hover .pWord,
+.working .box:hover .WorkingWord{
+    color: var(--main-color);
+}
+
+.who-we{
+margin: 30px;
+}
+.who-we h3{
+    color: var(--btn-color);
+}
+.who-we p{
+    color: var(--main-color);
+}
+.who-we ul strong{
+    color: var(--btn-color);
+}
+.who-we ul li{
+    color: var(--main-color);
+}

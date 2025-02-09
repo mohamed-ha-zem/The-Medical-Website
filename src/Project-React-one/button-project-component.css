@@ -1,0 +1,12 @@
+.button{
+    background-color: purple;
+    border: 0;
+    outline: 0;
+    padding: 8px;
+    color: white;
+    border-radius: 20px;
+    margin: 7px;
+}
+.button:hover{
+    opacity: .7
+}
