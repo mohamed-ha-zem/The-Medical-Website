@@ -1,4 +1,3 @@
-import "./ENT.css"
 
 export default function ENT(){
 

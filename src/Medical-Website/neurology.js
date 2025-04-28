@@ -1,4 +1,3 @@
-import "./neurology.css"
 
 export default function Neurology(){
 

@@ -1,4 +1,3 @@
-import "./latest.css"
 import image1 from "./Images/pexels-vidalbalielojrfotografia-3376799.jpg"
 import image2 from "./Images/pexels-jonathanborba-3279203.jpg"
 import image3 from './Images/pexels-shvetsa-4586994.jpg'

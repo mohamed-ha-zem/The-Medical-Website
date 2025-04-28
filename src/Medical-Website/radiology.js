@@ -1,4 +1,3 @@
-import "./radiology.css"
 
 export default function Radiology(){
 

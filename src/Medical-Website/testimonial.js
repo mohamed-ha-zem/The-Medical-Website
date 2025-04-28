@@ -1,4 +1,3 @@
-import "./testimonial.css"
 import React, { useState } from 'react'
 import commaUp from "./icons/quotation-marks (1).png"
 import commaDown from "./icons/quotation-mark (1).png"

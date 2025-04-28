@@ -1,4 +1,3 @@
-import "./orthopedics.css"
 
 export default function Orthopedics(){
 

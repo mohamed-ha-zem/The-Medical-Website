@@ -1,4 +1,3 @@
-import "./appointment.css";
 import mobileImage1 from "./Images/a.png";
 import mobileImage2 from "./Images/b.png";
 import mobileImage3 from "./Images/c.png";
@@ -102,9 +101,9 @@ export default function Appointment() {
                     )}
                 </div>
                 <div className="appointmentImags col">
-                    <div id="carouselExampleIndicators" class="carousel slide">
-                        <div class="carousel-indicators">
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <div id="carouselExampleIndicators" className="carousel slide">
+                        <div className="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
                         </div>
@@ -125,7 +124,7 @@ export default function Appointment() {
                         </button>
                         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
+                            <span className="visually-hidden">Next</span>
                         </button>
                     </div>
                 </div>

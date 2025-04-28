@@ -1,4 +1,3 @@
-import "./pediatrics.css"
 
 export default function Pediatrics(){
 

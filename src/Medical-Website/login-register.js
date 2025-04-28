@@ -1,28 +1,3 @@
-// import "./login-register.css"
-// import robote from "./Images/—Pngtree—robot doctor in white coat_16657203.png"
-
-// export default function LoginRegister(){
-//     return(
-//         <div className="body">
-//             <div className="loginPage">
-//                 <div className="logo">
-//                     <img src={robote}/>
-//                     <p><span>English</span> | <span style={{color: "red" , cursor: "pointer"}}>Arabic</span></p>
-//                 </div>
-//                 <div className="login">
-//                     <h3>Login Information</h3>
-//                     <input placeholder="User Name..."/>
-//                     <input placeholder="Password..."/>
-//                     <button>Login</button>
-//                 </div>
-//                 <div className="forgetPassword">
-//                     <a>?Forgot your password</a>
-//                 </div>
-//             </div>
-//         </div>
-//     )
-// }
-import "./login-register.css";
 import robote from "./Images/—Pngtree—robot doctor in white coat_16657203.png";
 
 import React from "react";

@@ -1,4 +1,3 @@
-import "./services.css"
 import React from 'react'
 import Diagnostics from "./icons/stethoscope (1).png"
 import treatment from "./icons/medicine.png"

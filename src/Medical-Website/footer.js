@@ -1,4 +1,3 @@
-import "./footer.css"
 import mainImage from"./Images/image1opacity0.png"
 import phone from './icons/circle.png'
 import React from 'react'

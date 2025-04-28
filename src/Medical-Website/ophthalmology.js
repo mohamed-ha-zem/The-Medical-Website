@@ -1,4 +1,3 @@
-import "./ophthalmology.css"
 
 export default function Ophthalmology(){
 

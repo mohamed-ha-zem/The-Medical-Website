@@ -9,6 +9,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
+    "framer-motion": "^12.4.7",
     "i18next": "^24.2.1",
     "i18next-http-backend": "^3.0.1",
     "react": "^19.0.0",
@@ -44,6 +45,9 @@
     ]
   },
   "devDependencies": {
-    "prettier": "^3.4.2"
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "prettier": "^3.4.2",
+    "tailwindcss": "^4.0.8"
   }
 }

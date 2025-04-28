@@ -1,4 +1,3 @@
-import "./home.css";
 import mainImage from "./Images/image1opacity0.png";
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

@@ -55,6 +55,7 @@ function App() {
         <Route path='/latest' element={<Latest/>}/>
         <Route path='/questions' element={<Questions/>}/>
         <Route path='/login-register' element={<LoginRegister/>}/>
+
         <Route path='/Cardiology' element={<Cardiology/>}/>
         <Route path='/Neurology' element={<Neurology/>}/>
         <Route path='/Orthopedics' element={<Orthopedics/>}/>
@@ -62,6 +63,7 @@ function App() {
         <Route path='/Radiology' element={<Radiology/>}/>
         <Route path='/Ophthalmology' element={<Ophthalmology/>}/>
         <Route path='/ENT' element={<ENT/>}/>
+        
       </Routes>
       <Footer />
     </div>
